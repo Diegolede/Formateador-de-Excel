@@ -1,4 +1,5 @@
 <div align="center">
+   <img src="assets/logo.svg" alt="Finbook Logo" width="180" />
   <h1>Formateador Excel</h1>
   <p>
     <strong>Procesador profesional de listas de precios</strong>
@@ -18,6 +19,11 @@
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
     <img src="https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="ExcelJS" />
   </p>
+</div>
+
+<div align="center">
+  <img src="assets/captura.png" alt="Captura de pantalla de Finbook" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <p><em>Organiza tus finanzas con claridad y estilo</em></p>
 </div>
 
 ---

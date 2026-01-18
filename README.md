@@ -76,7 +76,6 @@ La interfaz es minimalista y directa:
 **Archivo de Entrada** (multi-hoja con diferentes formatos):
 - Hoja "Shampoos": Columnas variadas con "Producto", "Pro", "Público"
 - Hoja "Tintes": Columnas con "Nombre", "Profesional", "Publico"
-- Hoja "COLLAGE": Ignorada automáticamente
 
 **Archivo de Salida** (`~/Documentos/salida_2026-01-18.xlsx`):
 ```

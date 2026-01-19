@@ -1,5 +1,4 @@
 <div align="center">
-   <img src="assets/logo.svg" alt="Finbook Logo" width="180" />
   <h1>Formateador Excel</h1>
   <p>
     <strong>Procesador profesional de listas de precios</strong>

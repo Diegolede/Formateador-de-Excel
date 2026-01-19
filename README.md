@@ -70,19 +70,13 @@ La interfaz es minimalista y directa:
 
 ---
 
-##  Ejemplo de Uso
+##  Ejemplo de Datos Entrada y Salida 
 
-**Archivo de Entrada** (multi-hoja con diferentes formatos):
-- Hoja "Shampoos": Columnas variadas con "Producto", "Pro", "Público"
-- Hoja "Tintes": Columnas con "Nombre", "Profesional", "Publico"
+**Archivo de Entrada** 
+<img src="assets/entrada.png" alt="Archivo de Entrada" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
-**Archivo de Salida** (`~/Documentos/salida_2026-01-18.xlsx`):
-```
-| producto          | precio profesional | precio público | categoría |
-|-------------------|-------------------|----------------|-----------|
-| Shampoo Keratina  | 150.00           | 202.50         | Shampoos  |
-| Tinte Castaño     | 200.00           | 270.00         | Tintes    |
-```
+**Archivo de Salida** (`~/Documentos/salida_(dia_actual).xlsx`):
+<img src="assets/salida.png" alt="Archivo de Salida" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
 ---
 
